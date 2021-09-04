@@ -95,12 +95,12 @@ h2 {
   font-size: 18px;
 }
 .line {
-  width: 120px;
+  width: 90px;
   position: relative;
   margin: 0 auto 0 auto;
   border-style: dotted;
   border-width: 14px 0 0 0;
-  border-color: rgb(172, 170, 170);
+  border-color: rgba(197, 197, 197, 0.514);
 }
 #line1 {
   position: relative;
